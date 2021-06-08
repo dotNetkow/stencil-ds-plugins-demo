@@ -23,7 +23,8 @@ export const config: Config = {
     }),
     reactOutputTarget({
       componentCorePackage: 'component-library',
-      proxiesFile: '../component-library-react/src/components.ts'
+      //proxiesFile: '../component-library-react/src/components.ts'
+      proxiesFile: '../stencil-ds-react-template/src/components.ts'
     }),
     {
       type: 'dist',

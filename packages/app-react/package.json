@@ -10,8 +10,7 @@
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "2.1.8",
-    "typescript": "3.3.4000",
-    "component-library-react": "^0.0.1"
+    "typescript": "3.3.4000"
   },
   "scripts": {
     "start": "react-scripts start",

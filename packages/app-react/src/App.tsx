@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { DemoComponent } from 'component-library-react';
+import { DemoComponent } from 'component-library-react-netty';
 import './App.css';
 
 interface State {

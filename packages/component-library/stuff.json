@@ -1,5 +1,5 @@
 {
-  "timestamp": "2019-12-09T23:57:20",
+  "timestamp": "2021-06-08T02:14:40",
   "compiler": {
     "name": "@stencil/core",
     "version": "1.7.5",
@@ -7,7 +7,7 @@
   },
   "components": [
     {
-      "filePath": "src/components/demo-component/demo-component.tsx",
+      "filePath": "src\\components\\demo-component\\demo-component.tsx",
       "encapsulation": "shadow",
       "tag": "demo-component",
       "readme": "# demo-component\n\n\n",
